@@ -8,8 +8,6 @@ Panels:
         - /RobotModel1/Description Topic1
         - /TF1/Frames1
         - /TF1/Tree1
-        - /Grid1
-        - /BaseAxes1
       Splitter Ratio: 0.5
     Tree Height: 349
   - Class: rviz_common/Views
@@ -125,12 +123,12 @@ Visualization Manager:
       Reference Frame: base
       Value: true
     - Class: rviz_default_plugins/Axes
-      Enabled: true
+      Enabled: false
       Length: 0.15000000596046448
       Name: BaseAxes
       Radius: 0.009999999776482582
       Reference Frame: base
-      Value: true
+      Value: false
   Enabled: true
   Global Options:
     Background Color: 205; 171; 143
@@ -177,5 +175,5 @@ Window Geometry:
   Views:
     collapsed: false
   Width: 1200
-  X: 2038
-  Y: 163
+  X: 720
+  Y: 143
