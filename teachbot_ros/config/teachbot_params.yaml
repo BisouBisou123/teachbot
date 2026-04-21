@@ -38,11 +38,11 @@ teachbot_publisher:
     degree_offsets:
       - -90.0     # shoulder_pan
       - 90.0     # shoulder_lift
-      - -270.0     # elbow
+      - 90.0     # elbow
       - 0.0    # wrist_1
       - -90.0     # wrist_2
       - 90.0     # wrist_3
-
+# Above Checked 20264021
 #      - 0.0     # wrist_1
 #      - -90.0     # wrist_2
 #      - 90.0     # wrist_3
