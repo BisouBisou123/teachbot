@@ -39,8 +39,8 @@ teachbot_publisher:
       - -90.0     # shoulder_pan
       - 90.0     # shoulder_lift
       - 90.0     # elbow date: 20260323
-      
-      
+
+
 
       - 0.0    # wrist_1
       - -90.0     # wrist_2
